@@ -1,0 +1,17 @@
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/runner/Game.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/Queen.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/squares/SquareColour.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/Movable.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/PieceFactory.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/AbstractPiece.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/common/File.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/squares/Square.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/board/Board.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/Pawn.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/common/LocationFactory.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/Knight.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/King.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/Rook.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/common/Location.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/Bishop.java
+/Users/franciscomigueljao/Code/java/Chess/src/main/java/com/chess/piece/PieceColour.java

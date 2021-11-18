@@ -1,0 +1,17 @@
+com/chess/piece/Knight.class
+com/chess/piece/PieceColour.class
+com/chess/squares/Square.class
+com/chess/common/LocationFactory.class
+com/chess/common/Location.class
+com/chess/squares/SquareColour.class
+com/chess/piece/PieceFactory.class
+com/chess/board/Board.class
+com/chess/piece/Bishop.class
+com/chess/common/File.class
+com/chess/piece/Pawn.class
+com/chess/piece/Movable.class
+com/chess/piece/Queen.class
+com/chess/piece/Rook.class
+com/chess/piece/King.class
+com/chess/piece/AbstractPiece.class
+com/chess/runner/Game.class
